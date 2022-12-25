@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+{% if name == 'search' %} 
+{% for result in results %}
+<a style="color:rgb(244, 240, 240)" href="/lab/lab/{{ result.id }}/hitch"> {{result.device}} </a>
+<br></br>
+{% endfor %}
+{% else %} 
+<div class="row row-cols-1 row-cols-md-5 g-4">
+    {% for type in typelist %}    
+    <div class="col">
+      <div class="card">
+        <img style="width:280px;height:150px" src="{% static 'images/web_uplouds/'%}{{ type.image }}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ type.type}}</h5>
+          <p class="card-text"></p>
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+              דגמים
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark">
+              {% for phone in phones %}
+                {% if phone.type_id == type.id %}
+                  <li><a class="dropdown-item active"  href="/lab/lab/{{ phone.id }}/hitch">{{ phone.device }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    {% endif %}
+  </div>
+{% endblock%}

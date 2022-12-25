@@ -1,0 +1,464 @@
+apple,apple.jpg,,,,,
+samsung,samsung.jpg,,,,,
+xiaome,xioami.jpg,,,,,
+others,none,,,,,
+1,iphone 14,iphone14.jpg,,,,
+1,iphone 13,iphone13.jpg,,,,
+1,iphone12,iphone12.jpg,,,,
+1,iphone11,iphone11.jpg,,,,
+1,iphone x,iphonex.jpg,,,,
+1,iphone 8,iphone8.jpg,,,,
+1,iphone 7,iphone7.jpg,,,,
+2,samsong galaxy S,galaxys.jpg,,,,
+2,samsong A,a.jpg,,,,
+2,samsong galaxy Z,galaxyz.jpg,,,,
+2,samsong galaxy note,galaxynote.jpg,,,,
+2,samsong galaxy m,galaxym.jpg,,,,
+3,xiaome redmi note,redminote.jpg,,,,
+3,xiaomi redmi,redmi.jpg,,,,
+3,xiaomi poco x,poco.jpg,,,,
+3,xiaomi poco m,pocom.jpg,,,,
+3,xiaomi poco f,pocof.jpg,,,,
+3,xioami,xioami.jpg,,,,
+4,google,google.jpg,,,,
+4,oneplus,oneplus.jpg,,,,
+4,realme,realme.jpg,,,,
+1,iphone 14 pro max,,,,,
+1,iphone 14 pro max,,,,,
+1,iphone 14 plus,,,,,
+1,iphone 14,,,,,
+2,iphone 13 pro max,,,,,
+2,iphone 13 pro,,,,,
+2,iphone 13 mini,,,,,
+2,iphone 13,,,,,
+3,iphone 12 pro max,,,,,
+3,iphone 12 pro,,,,,
+3,iphone 12 mini,,,,,
+3,iphone 12,,,,,
+4,iphone 11 pro max,,,,,
+4,iphone 11 pro ,,,,,
+4,iphone 11,,,,,
+5,iphone xs max,,,,,
+5,iphone xs,,,,,
+5,iphone x,,,,,
+5,iphone Xr,,,,,
+6,iphone 8 plus,,,,,
+6,iphone 8 ,,,,,
+7,iphone 7 plus,,,,,
+7,iphone 7 ,,,,,
+8,samsung galaxy s 22 ultra,,,,,
+8,samsung galaxy s 22 +,,,,,
+8,samsung galaxy 21+,,,,,
+8,samsung galaxy s21,,,,,
+8,samsung galaxy s21 FE,,,,,
+8,samsung galaxy s20 ultra,,,,,
+8,samsung galaxy s20+,,,,,
+8,samsung galaxy s20 FE,,,,,
+8,samsung galaxy s10+,,,,,
+8,samsung galaxy s10,,,,,
+8,samsung galaxy s10e,,,,,
+8,samsung galaxy s 10 Lite,,,,,
+8,samsung galaxy s9+,,,,,
+8,samsung galaxy s9,,,,,
+8,samsung galaxy s8+,,,,,
+8,samsung galaxy s8,,,,,
+8,samsung galaxy s8 active,,,,,
+9,samsung galaxy A73,,,,,
+9,samsung galaxy A72,,,,,
+9,samsung galaxy A71,,,,,
+9,samsung galaxy A70,,,,,
+9,samsung galaxy A53,,,,,
+9,samsung galaxy A52s,,,,,
+9,samsung galaxy A52,,,,,
+9,samsung galaxy A50,,,,,
+9,samsung galaxy A13,,,,,
+9,samsung galalxy A12,,,,,
+9,samsung galaxy A33,,,,,
+9,samsung galaxy A32,,,,,
+9,samsung galaxy A03,,,,,
+9,samsung galaxy A23,,,,,
+9,samsung galaxy A22,,,,,
+9,samsung galaxy A21,,,,,
+10,samsung galaxy z Fold4,,,,,
+10,samsung galaxy z Flip4,,,,,
+10,samsung galaxy Z Fold3,,,,,
+10,samsung galaxy Z Flip3,,,,,
+12,samsung galaxy m52,,,,,
+12,samsung galaxy m32,,,,,
+11,samsung galaxy note 20 Ultra,,,,,
+11,samsung galaxy note 20,,,,,
+11,samsung galaxy note 10+,,,,,
+11,samsung galaxy note 10,,,,,
+11,samsung galalxy note 10 Lite,,,,,
+11,samsung galaxy note 9,,,,,
+11,samsung galaxy note 8,,,,,
+13,xiaomi redmi note 11 pro,,,,,
+13,xiaomi redmi note 11 S,,,,,
+13,xiaomi redmi note 11,,,,,
+13,xiaomi redmi note 9 Pro,,,,,
+13,xiaomi redmi note 9,,,,,
+14,xiaomi redmi 10A,,,,,
+14,xiaomi redmi 10,,,,,
+14,xiaomi redmi 10C,,,,,
+14,xiaomi redmi 9A,,,,,
+14,xiaomi redmi 9,,,,,
+14,xiaomi redmi 9C,,,,,
+15,xiaomi Poco X4 GT,,,,,
+15,xiaomi Poco X4 Pro,,,,,
+15,xiaomi Poco X4 NFC,,,,,
+15,xiaomi Poco X4 ,,,,,
+16,xiaomi Poco m5s,,,,,
+16,xiaomi Poco m5,,,,,
+16,xiaomi Poco m4,,,,,
+16,xiaomi Poco m4 Pro,,,,,
+17,xiaomi Poco F4,,,,,
+17,xiaomi Poco F4 GT,,,,,
+18,xiaomi 12 pro ,,,,,
+18,xiaomi 12 ,,,,,
+18,xiaomi 11T Pro,,,,,
+18,xiaomi 11T,,,,,
+18,xiaomi 11i,,,,,
+18,xiaomi 11 Lite,,,,,
+19,google pixel 7 Pro,,,,,
+19,google pixel 7 ,,,,,
+19,google pixel 6a,,,,,
+19,google pixel 6 Pro,,,,,
+19,google pixel 6,,,,,
+19,google pixel 5,,,,,
+19,google pixel 5a,,,,,
+20,one plus 10 Pro,,,,,
+20,one plus 10T,,,,,
+20,one plus 9 Pro,,,,,
+20,one plus 9,,,,,
+20,one plus 8 Pro,,,,,
+20,one plus 8T,,,,,
+20,one plus Nord 2T,,,,,
+20,one plus Nord 2,,,,,
+20,one plus Nord CE 2,,,,,
+20,one plus Nord CE 2 Lite,,,,,
+20,one plus Nord N20,,,,,
+20,one plus Nord,,,,,
+20,one plus Nord N10,,,,,
+21,realme 9 pro plus,,,,,
+21,realme 9i,,,,,
+21,realme 9 pro ,,,,,
+21,realme 8 pro,,,,,
+21,realme 7 pro,,,,,
+21,realme 7,,,,,
+21,realme gt neo 2,,,,,
+21,realme gt master,,,,,
+21,realme gt ,,,,,
+21,realme c21y,,,,,
+21,realme c21y,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+broking/not working screen,front camera ,back camera,battery,Charging socket,Corrosion repair,microphone
+1200,600,350,500,350,300,500
+1100,600,350,500,350,300,500
+1100,600,350,500,350,300,500
+1100,500,350,400,350,300,500
+1050,500,350,400,350,300,300
+1050,500,300,400,350,300,300
+1050,500,300,400,350,300,300
+1000,500,300,300,350,300,300
+900,400,300,300,350,300,300
+900,400,300,300,300,300,300
+850,400,300,300,300,300,300
+850,350,300,300,300,300,300
+800,300,250,300,300,300,300
+800,300,250,300,300,300,300
+700,300,250,300,200,300,300
+700,300,250,300,200,300,200
+700,300,250,300,200,300,200
+600,250,200,300,200,300,200
+,,,,,,
+600,250,200,300,200,300,200
+600,250,200,200,200,300,200
+600,250,200,200,200,300,200
+450,250,200,200,200,300,200
+1000,400,400,200,200,300,200
+800,300,200,200,200,300,200
+450,250,200,200,200,300,200
+broking/not working screen,front camera ,back camera,battery,Charging socket,Corrosion repair,microphone
+1600,432,302,800,300,300,600
+543,543,302,800,300,300,600
+342,433,923,800,300,300,600
+324,632,453,643,300,300,600
+342,723,430,234,300,300,600
+324,324,532,503,300,300,600
+132,523,432,350,300,300,600
+343,523,602,423,300,300,300
+546,432,703,435,300,300,300
+456,832,704,300,300,300,300
+567,354,632,300,300,300,300
+456,324,830,300,300,300,300
+678,453,760,300,300,300,300
+456,234,676,300,300,300,300
+345,876,510,300,300,300,300
+567,900,511,300,300,300,300
+167,214,422,300,300,300,300
+,,,,,,
+567,465,522,600,300,300,300
+678,765,432,600,300,300,300
+567,657,123,600,300,300,300
+456,822,876,600,300,300,300
+547,324,612,600,300,300,300
+657,823,653,600,300,300,300
+678,743,653,600,300,300,300
+456,873,723,200,300,300,300
+756,732,123,200,300,300,300
+567,324,534,200,300,300,300
+456,123,234,200,300,300,300
+678,632,543,200,300,300,300
+546,534,234,200,300,300,300
+621,435,234,200,300,300,300
+533,345,523,200,300,300,300
+321,534,621,200,300,300,300
+,,,,,,
+1000,900,734,800,300,300,600
+214,432,534,600,300,300,350
+324,213,832,400,300,300,300
+321,432,832,200,300,300,300
+,,,,,,
+456,833,832,200,300,300,200
+456,732,235,200,300,300,200
+,,,,,,
+546,664,324,800,300,300,350
+432,234,454,800,300,300,350
+567,543,314,800,300,300,350
+465,1232,823,400,300,300,350
+564,922,912,400,300,300,300
+454,721,312,400,300,300,300
+321,800,732,400,300,300,300
+,,,,,,
+broking/not working screen,front camera ,back camera,battery,Charging socket,Corrosion repair,microphone
+1000,400,600,500,300,300,300
+850,300,500,350,300,300,300
+700,300,400,350,300,300,300
+600,300,350,350,300,300,300
+400,300,350,300,300,300,300
+400,300,350,300,300,300,300
+400,300,350,300,300,300,300
+,,,,,,
+broking/not working screen,front camera ,back camera,battery,Charging socket,Corrosion repair,microphone
+1000,500,500,600,300,300,350
+1000,450,400,500,300,300,300
+950,450,400,450,300,300,300
+700,450,400,300,300,300,300
+600,300,300,300,300,300,300
+600,300,300,300,300,300,300
+,,,,,,
+1000,500,500,450,300,300,300
+800,400,350,350,300,300,300
+600,300,300,300,300,300,300
+500,300,300,300,300,300,300
+400,300,300,300,300,300,300
+400,300,300,300,300,300,300
+400,300,300,300,300,300,300
+,,,,,,
+broking/not working screen,front camera ,back camera,battery,Charging socket,Corrosion repair,microphone

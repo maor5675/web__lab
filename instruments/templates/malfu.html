@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<style>
+    .Board {
+        width: 30%;
+        float:left;
+        padding: 3%;
+        text-align: center;
+        background-color: aliceblue;
+        margin: 10px;
+      }
+    </style>
+    {%for hitch in hitches %}
+    <div class="Board">
+        <h2>problem</h2>
+        <hr></hr>
+        <h5>{{hitch.Malfunction }}</h5> 
+        <hr></hr>
+        <h3>price:</h3>
+        <a class="mybutton" role="button" href="/lab/lab/{{ type }}/{{ hitch.id }}/{{user.id}}"> none </a>    
+    </div>
+    {% endfor %}
+    {% endblock%}
+    
